@@ -96,3 +96,15 @@
 [06-May-2017 16:21:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 32
 [06-May-2017 16:21:29 America/Chicago] Fatal error: syntax error, unexpected '}'
 [06-May-2017 16:21:29 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:32] 
+[16-May-2017 21:01:58 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/jchurch/public_html/328/mypets-templating-starter/index.php on line 17
+[16-May-2017 21:02:09 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/jchurch/public_html/328/mypets-templating-starter/index.php on line 17
+[16-May-2017 21:02:10 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/jchurch/public_html/328/mypets-templating-starter/index.php on line 17
+[16-May-2017 21:02:11 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/jchurch/public_html/328/mypets-templating-starter/index.php on line 17
+[16-May-2017 21:02:43 America/Chicago] Call to undefined function sha3() [/home/jchurch/public_html/328/mypets-templating-starter/index.php:14]
+[16-May-2017 21:02:43 America/Chicago] [328/mypets-templating-starter/index.php:21] Base->run()
+[16-May-2017 21:24:06 America/Chicago] syntax error, unexpected '<' [/home/jchurch/public_html/328/mypets-templating-starter/tmp/1ppdsx3up8q5e.2hbmt1l6jeqsc.php:26]
+[16-May-2017 21:24:06 America/Chicago] [328/mypets-templating-starter/index.php:24] Preview->render()
+[16-May-2017 21:24:06 America/Chicago] [328/mypets-templating-starter/index.php:28] Base->run()
+[16-May-2017 21:24:08 America/Chicago] syntax error, unexpected '<' [/home/jchurch/public_html/328/mypets-templating-starter/tmp/1ppdsx3up8q5e.2hbmt1l6jeqsc.php:26]
+[16-May-2017 21:24:08 America/Chicago] [328/mypets-templating-starter/index.php:24] Preview->render()
+[16-May-2017 21:24:08 America/Chicago] [328/mypets-templating-starter/index.php:28] Base->run()
