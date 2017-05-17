@@ -24,6 +24,10 @@
                                     '1000 Apple Ln. Seattle, WA 98999',
                                     'secondary'=>
                                     '2510 100th Court Tac, WA 98000'));
+        
+        
+        $f3->set('preferredCustomer', true);
+        $f3->set('lastLogin', strtotime('-1 week'));
         echo Template::instance()->render('pages/info.html');
     });
 
